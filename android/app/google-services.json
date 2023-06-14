@@ -1,0 +1,226 @@
+{
+  "project_info": {
+    "project_number": "429461742941",
+    "project_id": "reactnativeadmobproject",
+    "storage_bucket": "reactnativeadmobproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429461742941:android:e11224724844a5dea0f4b4",
+        "android_client_info": {
+          "package_name": "com.babynamesandmeaning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3DoH5pe1s5N-nFb24sa2M47QOGQCzw-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429461742941-2ck2r787jq6klmu1ftkeftbj2he9ji62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rks.modernmehndi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429461742941:android:e4d9e42d653d253fa0f4b4",
+        "android_client_info": {
+          "package_name": "com.ram.wordbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3DoH5pe1s5N-nFb24sa2M47QOGQCzw-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429461742941-2ck2r787jq6klmu1ftkeftbj2he9ji62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rks.modernmehndi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429461742941:android:edbce03cdb00972aa0f4b4",
+        "android_client_info": {
+          "package_name": "com.rks.matchinggame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3DoH5pe1s5N-nFb24sa2M47QOGQCzw-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429461742941-2ck2r787jq6klmu1ftkeftbj2he9ji62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rks.modernmehndi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429461742941:android:d272847581cf7b66a0f4b4",
+        "android_client_info": {
+          "package_name": "com.rks.mathkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3DoH5pe1s5N-nFb24sa2M47QOGQCzw-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429461742941-2ck2r787jq6klmu1ftkeftbj2he9ji62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rks.modernmehndi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429461742941:android:bd6ec6767a5c9e19a0f4b4",
+        "android_client_info": {
+          "package_name": "com.rks.mathtable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3DoH5pe1s5N-nFb24sa2M47QOGQCzw-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429461742941-2ck2r787jq6klmu1ftkeftbj2he9ji62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rks.modernmehndi"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429461742941:android:878648f288956094a0f4b4",
+        "android_client_info": {
+          "package_name": "com.rks.preschoolbengali"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3DoH5pe1s5N-nFb24sa2M47QOGQCzw-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "429461742941-qvfs90a3tr9ob3261ek1qd5s126e6arc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "429461742941-2ck2r787jq6klmu1ftkeftbj2he9ji62.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rks.modernmehndi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
