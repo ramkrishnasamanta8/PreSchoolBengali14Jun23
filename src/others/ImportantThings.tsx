@@ -33,6 +33,7 @@ export default  ImportantThings =(props) =>{
     } else if (title == 'Tower') {
       Tower();
     }
+    console.log('------')
   },[])
 
   const Wonder = () => {
